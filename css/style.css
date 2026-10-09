@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+    padding: 10px;
+    background-color:darkorange;
+    border-radius: 15px;
+}
+
+body {
+    background-color: rgb(21, 50, 113);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: larger;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+main {
+    margin: 0 20px;
+}
+
+img {
+    border: 5px solid lightblue;
+    border-radius: 30px;
+    margin-top: 10px;
+    padding: 5px;
+
+}
+
+.AA {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: aliceblue;
+}
+
+hr {
+    border-radius: 150px;
+    border: 2px solid darkorange;
+}
